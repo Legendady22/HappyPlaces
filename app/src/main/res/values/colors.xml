@@ -9,9 +9,13 @@
     <color name="white">#FFFFFFFF</color>
 
 
-    <color name="colorPrimaryDark">#3385c6</color>
-    <color name="colorPrimary">#4279a3</color>
-    <color name="colorAccent">#49657b</color>
+    <color name="colorPrimary">#4b86b4</color>
+    <color name="colorPrimaryDark">#2a4d69</color>
+    <color name="colorAccent">#adcbe3</color>
+    <color name="primary_text_color">#212121</color>
+    <color name="secondary_text_color">#9AA2AF</color>
+    <color name="white_color">#FFFFFF</color>
+    <color name="button_background_color">#63ace5</color>
 
 
     <!--#3385c6 • #4279a3 • #476c8a • #49657b • #7f8e9e -->
